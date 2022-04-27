@@ -2120,8 +2120,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sensorDistnace: 8.54
   cooldown: 1
-  shootSpeed: 1
+  shootSpeed: 6
   gun: {fileID: 325089627}
+  bullet: {fileID: 8023296365469036736, guid: 1226afbcfa0c44140ab198d6e9956e3e, type: 3}
   enemies: []
 --- !u!1001 &1298935806
 PrefabInstance:

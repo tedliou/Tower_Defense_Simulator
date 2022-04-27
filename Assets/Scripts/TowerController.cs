@@ -16,6 +16,7 @@ public class TowerController : MonoBehaviour
 
     [Header("Components")]
     public Transform gun;
+    public BulletController bullet;
 
     [Header("Data")]
     public EnemyController[] enemies;
@@ -68,19 +69,23 @@ public class TowerController : MonoBehaviour
                 }
             }
         }
-
-        
     }
 
     private void Fire()
     {
-
+        if (enemies.Length == 0) return;
+        var enemy = enemies[0];
+        var force = (enemy.transform.position - gun.position).normalized * shootSpeed;
+        var bullet = Instantiate(this.bullet);
+        bullet.Fire(force, gun.position);
     }
 
 #if UNITY_EDITOR
     private void OnValidate()
     {
         sensorDistnace = Mathf.Max(0, sensorDistnace);
+        cooldown = Mathf.Max(.02f, cooldown);
+        shootSpeed = Mathf.Max(.02f, shootSpeed);
     }
 
     private void OnDrawGizmos()
