@@ -13,6 +13,7 @@ public class TowerController : MonoBehaviour
     public float sensorDistnace = 4;
     public float cooldown = 1;
     public float shootSpeed = 1;
+    public float damage = 1.2f;
 
     [Header("Components")]
     public Transform gun;
@@ -77,6 +78,7 @@ public class TowerController : MonoBehaviour
         var enemy = enemies[0];
         var force = (enemy.transform.position - gun.position).normalized * shootSpeed;
         var bullet = Instantiate(this.bullet);
+        bullet.damage = damage;
         bullet.Fire(force, gun.position);
     }
 
@@ -93,7 +95,7 @@ public class TowerController : MonoBehaviour
         Handles.color = Color.green;
         Handles.DrawWireDisc(transform.position, transform.up, sensorDistnace);
 
-        if (enemies.Length > 0)
+        if (enemies.Length > 0 && enemies[0] != null)
         {
             Gizmos.color = Color.red;
             Gizmos.DrawLine(gun.transform.position, enemies[0].transform.position);

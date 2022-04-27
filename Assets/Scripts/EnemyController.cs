@@ -1,18 +1,44 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class EnemyController : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    [Header("Settings")]
+    public float healthPoint = 2;
+    public Vector3 hpBarOffset;
+
+    [Header("Components")]
+    public Slider hpBar;
+
+    private void Start()
     {
-        
+        hpBar.value = hpBar.maxValue = healthPoint;
+        var canvas = FindObjectOfType<Canvas>().transform;
+        var position = Camera.main.WorldToScreenPoint(transform.position);
+        hpBar = Instantiate(hpBar, canvas);
+        hpBar.transform.position = position + hpBarOffset;
     }
 
-    // Update is called once per frame
-    void Update()
+    private void OnDestroy()
     {
-        
+        Destroy(hpBar.gameObject);
+    }
+
+    public void SetDamage(float damage)
+    {
+        UpdateHealth(healthPoint - damage);
+    }
+
+    private void UpdateHealth(float health)
+    {
+        healthPoint = health;
+        if (healthPoint <= 0)
+        {
+            // Die
+            Destroy(gameObject);
+        }
+        hpBar.value = healthPoint;
     }
 }

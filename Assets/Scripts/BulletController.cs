@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class BulletController : MonoBehaviour
 {
+    public float damage;
+
     public void Fire(Vector3 direction, Vector3 startPosition)
     {
         transform.position = startPosition;
@@ -15,6 +17,7 @@ public class BulletController : MonoBehaviour
     {
         if (other.CompareTag("Enemy"))
         {
+            other.GetComponent<EnemyController>().SetDamage(damage);
             Destroy(gameObject);
         }
     }
