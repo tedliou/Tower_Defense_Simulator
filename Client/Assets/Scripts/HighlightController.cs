@@ -67,13 +67,7 @@ public class HighlightController : MonoBehaviour
         var gridSize = GameManager.instance.gridSize;
         for (int i = 0; i < cells.Length; i++)
         {
-            if (cells[i].transform.position.x < grid[0, 0].x || cells[i].transform.position.z < grid[0, 0].z)
-            {
-                cells[i].SetMode(false);
-                continue;
-            }
-
-            if (cells[i].transform.position.x > grid[gridSize.x - 1, 0].x || cells[i].transform.position.z > grid[0, gridSize.y - 1].z)
+            if (cells[i].transform.position.x < grid[0, 0].x || cells[i].transform.position.z < grid[0, 0].z || cells[i].transform.position.x > grid[gridSize.x - 1, 0].x || cells[i].transform.position.z > grid[0, gridSize.y - 1].z)
             {
                 cells[i].SetMode(false);
                 continue;

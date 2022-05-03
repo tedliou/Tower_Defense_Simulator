@@ -960,7 +960,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d1911cdb771c96949b35dac5bfc18660, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cellAmount: 1
+  cellAmount: 4
   cellSize: {x: 2, y: 2}
   cellQuad: {fileID: 7765352822313073872, guid: 151e30972412a714e8ac7a745af51360, type: 3}
   cells: []

@@ -42,7 +42,7 @@ public class GameManager : MonoBehaviour
 
     private void GenerateGrid()
     {
-        grid = new Vector3[10, 10];
+        grid = new Vector3[gridSize.x, gridSize.y];
         for (int i = 0; i < gridSize.x; i++)
         {
             for (int j = 0; j < gridSize.y; j++)
@@ -66,21 +66,26 @@ public class GameManager : MonoBehaviour
 
     public Vector3 GetGridPosition(Vector3 position)
     {
+
         (int x, int y) index = (0, 0);
         (float width, float height) cellRect = (cellSize.x / 2f, cellSize.y / 2f);
+        Debug.Log(grid[0, 0]);
         for (int i = 0; i < gridSize.x; i++)
         {
-            if (position.x > grid[i, 0].x - cellRect.width && position.x < grid[gridSize.x - 1, 0].x * cellSize.x - cellRect.width)
+            //Debug.Log($"{position.x}, {grid[i, 0].x - cellRect.width}, {grid[i, 0].x + cellRect.width}");
+            if (position.x >= grid[i, 0].x - cellRect.width && position.x <= grid[i, 0].x + cellRect.width)
             {
                 index.x = i;
+                Debug.LogWarning(i);
+                break;
+            }
+        }
 
-                for (int j = 0; j < gridSize.y; j++)
-                {
-                    if (position.z > grid[i, j].z - cellRect.height && position.z < grid[i, j].z + cellSize.y - cellRect.height)
-                    {
-                        index.y = j;
-                    }
-                }
+        for (int j = 0; j < gridSize.y; j++)
+        {
+            if (position.z > grid[0, j].z - cellRect.height /*&& position.z < grid[i, j].z + cellSize.y - cellRect.height*/)
+            {
+                index.y = j;
             }
         }
         return grid[index.x, index.y];
