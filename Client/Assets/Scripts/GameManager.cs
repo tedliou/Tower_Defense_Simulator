@@ -7,7 +7,8 @@ using UnityEditor;
 
 public class GameManager : MonoBehaviour
 {
-    public GameObject highlightGrid;
+    public static GameManager instance;
+    public HighlightController highlightGrid;
     public GameObject normalGrid;
     public TowerData[] towers;
     public Vector3[,] grid;
@@ -23,6 +24,11 @@ public class GameManager : MonoBehaviour
                          .ToArray();
     }
 #endif
+
+    private void Awake()
+    {
+        instance = this;
+    }
 
     private void Start()
     {
@@ -53,12 +59,12 @@ public class GameManager : MonoBehaviour
         var mouseRay = Camera.main.ScreenPointToRay(Input.mousePosition);
         if (Physics.Raycast(mouseRay, out RaycastHit hit, 100, 1 << 8))
         {
-            highlightGrid.transform.position = GetGridPosition(hit.point);
+            highlightGrid.SetPosition(hit.point);
             Debug.DrawLine(mouseRay.origin, mouseRay.origin + mouseRay.direction * 100);
         }
     }
 
-    private Vector3 GetGridPosition(Vector3 position)
+    public Vector3 GetGridPosition(Vector3 position)
     {
         (int x, int y) index = (0, 0);
         (float width, float height) cellRect = (cellSize.x / 2f, cellSize.y / 2f);
@@ -77,6 +83,6 @@ public class GameManager : MonoBehaviour
                 }
             }
         }
-        return grid[index.x, index.y] + new Vector3(0, 0, -cellRect.height);
+        return grid[index.x, index.y];
     }
 }
