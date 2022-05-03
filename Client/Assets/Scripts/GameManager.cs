@@ -7,7 +7,12 @@ using UnityEditor;
 
 public class GameManager : MonoBehaviour
 {
+    public GameObject highlightGrid;
+    public GameObject normalGrid;
     public TowerData[] towers;
+    public Vector3[,] grid;
+    public Vector2Int gridSize = new Vector2Int(10, 10);
+    public Vector2Int cellSize = new Vector2Int(2, 2);
 
 #if UNITY_EDITOR
     private void OnValidate()
@@ -18,4 +23,60 @@ public class GameManager : MonoBehaviour
                          .ToArray();
     }
 #endif
+
+    private void Start()
+    {
+        GenerateGrid();
+    }
+
+    private void Update()
+    {
+        DetectGridRay();
+    }
+
+    private void GenerateGrid()
+    {
+        grid = new Vector3[10, 10];
+        for (int i = 0; i < gridSize.x; i++)
+        {
+            for (int j = 0; j < gridSize.y; j++)
+            {
+                grid[i, j] = transform.position + new Vector3(i * cellSize.x, 0, j * cellSize.y);
+                normalGrid.transform.position = grid[i, j];
+                Instantiate(normalGrid);
+            }
+        }
+    }
+
+    private void DetectGridRay()
+    {
+        var mouseRay = Camera.main.ScreenPointToRay(Input.mousePosition);
+        if (Physics.Raycast(mouseRay, out RaycastHit hit, 100, 1 << 8))
+        {
+            highlightGrid.transform.position = GetGridPosition(hit.point);
+            Debug.DrawLine(mouseRay.origin, mouseRay.origin + mouseRay.direction * 100);
+        }
+    }
+
+    private Vector3 GetGridPosition(Vector3 position)
+    {
+        (int x, int y) index = (0, 0);
+        (float width, float height) cellRect = (cellSize.x / 2f, cellSize.y / 2f);
+        for (int i = 0; i < gridSize.x; i++)
+        {
+            if (position.x > grid[i, 0].x - cellRect.width && position.x < grid[gridSize.x - 1, 0].x * cellSize.x - cellRect.width)
+            {
+                index.x = i;
+
+                for (int j = 0; j < gridSize.y; j++)
+                {
+                    if (position.z > grid[i, j].z - cellRect.height && position.z < grid[i, j].z + cellSize.y - cellRect.height)
+                    {
+                        index.y = j;
+                    }
+                }
+            }
+        }
+        return grid[index.x, index.y] + new Vector3(0, 0, -cellRect.height);
+    }
 }
