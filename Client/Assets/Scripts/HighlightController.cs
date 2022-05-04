@@ -51,6 +51,8 @@ public class HighlightController : MonoBehaviour
     public CellController cellQuad;
     public CellController[] cells;
     public Mode mode = Mode.Rectangle;
+    public GameObject building;
+    public bool isCorrent;
 
     public enum Mode
     {
@@ -64,13 +66,33 @@ public class HighlightController : MonoBehaviour
         CellAmount = 1;
     }
 
+    private int _targetCount = 1;
     private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.D))
+        {
+            _targetCount++;
+            var target = (int)Mathf.Pow(_targetCount + (int)Input.mouseScrollDelta.y, 2);
+            CellAmount = target;
+        }
+        else if (Input.GetKeyDown(KeyCode.A))
+        {
+            _targetCount--;
+            var target = (int)Mathf.Pow(_targetCount + (int)Input.mouseScrollDelta.y, 2);
+            CellAmount = target;
+        }
+    }
+
+    private void LateUpdate()
     {
         DetectCellBorder();
 
-        if ((int)Input.mouseScrollDelta.y != 0)
+        if (Input.GetMouseButtonDown(0) && isCorrent)
         {
-            CellAmount += (int)Input.mouseScrollDelta.y;
+            for (int i = 0; i < cells.Length; i++)
+            {
+                cells[i].Spawn(building);
+            }
         }
     }
 
@@ -136,15 +158,37 @@ public class HighlightController : MonoBehaviour
     {
         var grid = GameManager.instance.grid;
         var gridSize = GameManager.instance.gridSize;
+        isCorrent = true;
         for (int i = 0; i < cells.Length; i++)
         {
             if (cells[i].transform.position.x < grid[0, 0].x || cells[i].transform.position.z < grid[0, 0].z || cells[i].transform.position.x > grid[gridSize.x - 1, 0].x || cells[i].transform.position.z > grid[0, gridSize.y - 1].z)
             {
                 cells[i].SetMode(false);
+                isCorrent = false;
                 continue;
             }
 
-            cells[i].SetMode(true);
+            for (int x = 0; x < gridSize.x; x++)
+            {
+                for (int y = 0; y < gridSize.y; y++)
+                {
+                    if (cells[i].transform.position == grid[x, y])
+                    {
+                        cells[i].SetGrid(x, y);
+                        break;
+                    }
+                }
+            }
+
+            if (cells[i].IsBuilded)
+            {
+                cells[i].SetMode(false);
+                isCorrent = false;
+            }
+            else
+            {
+                cells[i].SetMode(true);
+            }
         }
     }
 
@@ -152,25 +196,8 @@ public class HighlightController : MonoBehaviour
     {
         if (mode == Mode.Rectangle)
         {
-            //var middle = (cells[cells.Length - 1].transform.localPosition - cells[0].transform.localPosition) / 2;
             transform.position = GameManager.instance.GetGridPosition(position);
             return;
-
-            // 矯正滑鼠為多邊形中心位置
-            //if (cellAmount % 2 == 0 && cellAmount != 8)
-            //{
-            //    var middle = (cells[cells.Length - 1].transform.localPosition - cells[0].transform.localPosition) / 2;
-            //    transform.position = GameManager.instance.GetGridPosition(position - middle);
-            //}
-            //else if (cellAmount > 1)
-            //{
-            //    var middle = cells[Mathf.RoundToInt(cells.Length / 2f)].transform.localPosition;
-            //    transform.position = GameManager.instance.GetGridPosition(position - middle);
-            //}
-            //else
-            //{
-            //    transform.position = GameManager.instance.GetGridPosition(position);
-            //}
         }
     }
 }

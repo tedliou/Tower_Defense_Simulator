@@ -12,6 +12,7 @@ public class GameManager : MonoBehaviour
     public GameObject normalGrid;
     public TowerData[] towers;
     public Vector3[,] grid;
+    public bool[,] build;
     public Vector2Int gridSize = new Vector2Int(10, 10);
     public Vector2Int cellSize = new Vector2Int(2, 2);
     public GameObject sphere;
@@ -29,10 +30,6 @@ public class GameManager : MonoBehaviour
     private void Awake()
     {
         instance = this;
-    }
-
-    private void Start()
-    {
         GenerateGrid();
     }
 
@@ -44,6 +41,7 @@ public class GameManager : MonoBehaviour
     private void GenerateGrid()
     {
         grid = new Vector3[gridSize.x, gridSize.y];
+        build = new bool[gridSize.x, gridSize.y];
         for (int i = 0; i < gridSize.x; i++)
         {
             for (int j = 0; j < gridSize.y; j++)
@@ -53,6 +51,7 @@ public class GameManager : MonoBehaviour
                 Instantiate(normalGrid);
             }
         }
+        highlightGrid.gameObject.SetActive(true);
     }
 
     private void DetectGridRay()
