@@ -14,6 +14,7 @@ public class GameManager : MonoBehaviour
     public Vector3[,] grid;
     public Vector2Int gridSize = new Vector2Int(10, 10);
     public Vector2Int cellSize = new Vector2Int(2, 2);
+    public GameObject sphere;
 
 #if UNITY_EDITOR
     private void OnValidate()
@@ -66,17 +67,15 @@ public class GameManager : MonoBehaviour
 
     public Vector3 GetGridPosition(Vector3 position)
     {
-
+        sphere.transform.position = position;
         (int x, int y) index = (0, 0);
         (float width, float height) cellRect = (cellSize.x / 2f, cellSize.y / 2f);
-        Debug.Log(grid[0, 0]);
         for (int i = 0; i < gridSize.x; i++)
         {
             //Debug.Log($"{position.x}, {grid[i, 0].x - cellRect.width}, {grid[i, 0].x + cellRect.width}");
             if (position.x >= grid[i, 0].x - cellRect.width && position.x <= grid[i, 0].x + cellRect.width)
             {
                 index.x = i;
-                Debug.LogWarning(i);
                 break;
             }
         }
