@@ -48,8 +48,8 @@ public class HighlightController : MonoBehaviour
 
     public int Amount => cells.Length;
 
-    public CellController cellQuad;
-    public CellController[] cells;
+    public GridSelector cellQuad;
+    public GridSelector[] cells;
     public Mode mode = Mode.Rectangle;
     public GameObject building;
     public bool isCorrent;
@@ -105,7 +105,7 @@ public class HighlightController : MonoBehaviour
                     Destroy(cells[i].gameObject);
 
         // Generate
-        cells = new CellController[CellAmount];
+        cells = new GridSelector[CellAmount];
         if (mode == Mode.Line)
         {
             for (int i = 0; i < CellAmount; i++)
@@ -163,7 +163,7 @@ public class HighlightController : MonoBehaviour
         {
             if (cells[i].transform.position.x < grid[0, 0].x || cells[i].transform.position.z < grid[0, 0].z || cells[i].transform.position.x > grid[gridSize.x - 1, 0].x || cells[i].transform.position.z > grid[0, gridSize.y - 1].z)
             {
-                cells[i].SetMode(false);
+                cells[i].SetStats(false);
                 isCorrent = false;
                 continue;
             }
@@ -182,12 +182,12 @@ public class HighlightController : MonoBehaviour
 
             if (cells[i].IsBuilded)
             {
-                cells[i].SetMode(false);
+                cells[i].SetStats(false);
                 isCorrent = false;
             }
             else
             {
-                cells[i].SetMode(true);
+                cells[i].SetStats(true);
             }
         }
     }
