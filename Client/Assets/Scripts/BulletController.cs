@@ -6,6 +6,11 @@ public class BulletController : MonoBehaviour
 {
     public float damage;
 
+    private void Awake()
+    {
+        Destroy(gameObject, 1);
+    }
+
     public void Fire(Vector3 direction, Vector3 startPosition)
     {
         transform.position = startPosition;

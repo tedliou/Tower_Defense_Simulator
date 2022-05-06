@@ -139,24 +139,12 @@ public class GridManager : SerializedMonoBehaviour
     [Button("Create Grid", ButtonSizes.Large)]
     public void GenerateGrid()
     {
-        var existBuilding = FindObjectsOfType<Building>();
-        foreach (var e in existBuilding)
-        {
-            StartCoroutine(DestoryInEditor(e.gameObject));
-        }
-
         if (content == null)
         {
             content = new Dictionary<CellIndex, Cell>();
         }
-        else
-        {
-            foreach (var c in content)
-            {
-                DestroyImmediate(c.Value.gameObject);
-            }
-            content.Clear();
-        }
+
+        DeleteGrid();
 
         var spawnPos = transform.position;
         if (gridSize.x % 2 == 0)
@@ -184,6 +172,26 @@ public class GridManager : SerializedMonoBehaviour
             }
             tmpSpawnPos.x = spawnPos.x;
             tmpSpawnPos.z += cellSize.y;
+        }
+    }
+
+
+    [Button("Delete Grid", ButtonSizes.Large)]
+    public void DeleteGrid()
+    {
+        var existBuilding = FindObjectsOfType<Building>();
+        foreach (var e in existBuilding)
+        {
+            StartCoroutine(DestoryInEditor(e.gameObject));
+        }
+
+        if (content != null)
+        {
+            foreach (var c in content)
+            {
+                DestroyImmediate(c.Value.gameObject);
+            }
+            content.Clear();
         }
     }
 

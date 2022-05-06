@@ -6,6 +6,7 @@ using System.Linq;
 public class Building : MonoBehaviour
 {
     public BuildingData data = new BuildingData();
+    public Transform body;
 
     private void Awake()
     {
@@ -19,15 +20,15 @@ public class Building : MonoBehaviour
 
     private IEnumerator Build()
     {
-        var scale = transform.localScale;
+        var scale = body.localScale;
         scale.y = 0;
-        transform.localScale = scale;
+        body.localScale = scale;
         var targetScaleY = Random.Range(1, 6);
 
-        while (transform.localScale.y < targetScaleY)
+        while (body.localScale.y < targetScaleY)
         {
             scale.y += .1f;
-            transform.localScale = scale;
+            body.localScale = scale;
             yield return null;
         }
     }

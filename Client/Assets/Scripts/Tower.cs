@@ -7,7 +7,7 @@ using System.Linq;
 using UnityEditor;
 #endif
 
-public class TowerController : MonoBehaviour
+public class Tower : MonoBehaviour
 {
     [Header("Settings")]
     public float sensorDistnace = 4;

@@ -15,15 +15,15 @@ public class EnemyController : MonoBehaviour
     private void Start()
     {
         hpBar.value = hpBar.maxValue = healthPoint;
-        var canvas = FindObjectOfType<Canvas>().transform;
-        var position = Camera.main.WorldToScreenPoint(transform.position);
-        hpBar = Instantiate(hpBar, canvas);
-        hpBar.transform.position = position + hpBarOffset;
+        //var canvas = FindObjectOfType<Canvas>().transform;
+        //var position = Camera.main.WorldToScreenPoint(transform.position);
+        //hpBar = Instantiate(hpBar, canvas);
+        //hpBar.transform.position = position + hpBarOffset;
     }
 
     private void OnDestroy()
     {
-        Destroy(hpBar.gameObject);
+        //Destroy(hpBar.gameObject);
     }
 
     public void SetDamage(float damage)
