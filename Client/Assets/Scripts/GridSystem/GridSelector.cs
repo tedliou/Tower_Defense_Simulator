@@ -6,12 +6,9 @@ public class GridSelector : MonoBehaviour
 {
     [Header("Stats")]
     public bool isAvailable = true;
-    public Vector2Int firstSelectGrid = new Vector2Int(-1, -1);
-    public Vector2Int lastSelectGrid = new Vector2Int(-1, -1);
-    public List<Cell> selectedCells = new List<Cell>();
-
-    [Header("Buildings")]
-    public Building buildingPrefab;
+    public CellIndex firstSelectGrid = new (-1, -1);
+    public CellIndex lastSelectGrid = new(-1, -1);
+    public List<Cell> selectedCells = new ();
 
     [Header("Colors")]
     public Color hoverColor = Color.white;
@@ -29,8 +26,8 @@ public class GridSelector : MonoBehaviour
     private void Awake()
     {
         instance = this;
-        firstSelectGrid = -Vector2Int.one;
-        lastSelectGrid = -Vector2Int.one;
+        firstSelectGrid = CellIndex.NegativeOne;
+        lastSelectGrid = CellIndex.NegativeOne;
     }
 
     private void Start()
@@ -46,15 +43,15 @@ public class GridSelector : MonoBehaviour
 
         if (mouseDown)
         {
-            firstSelectGrid = GridManager.instance.GetCellIndexByCell(cell);
+            firstSelectGrid = cell.index;
         }
 
         if (mouseUp || mouseStay)
         {
-            lastSelectGrid = GridManager.instance.GetCellIndexByCell(cell);
+            lastSelectGrid = cell.index;
         }
 
-        if (firstSelectGrid != -Vector2Int.one)
+        if (firstSelectGrid != CellIndex.NegativeOne)
         {
             var firstSelectCell = GridManager.instance.GetCellByIndex(firstSelectGrid);
             firstSelectCell.SetStats(CellState.Select);
@@ -69,8 +66,15 @@ public class GridSelector : MonoBehaviour
                 {
                     for (int j = firstSelectGrid.y; j != lastSelectGrid.y + (y > 0 ? 1 : -1); j += y > 0 ? 1 : -1)
                     {
-                        var c = GridManager.instance.GetCellByIndex(new Vector2Int(i, j));
-                        c.SetStats(CellState.Select);
+                        var c = GridManager.instance.GetCellByIndex(new CellIndex(i, j));
+                        if (GridManager.instance.deleteMode && Application.isEditor)
+                        {
+                            c.SetStats(CellState.Block);
+                        }
+                        else
+                        {
+                            c.SetStats(CellState.Select);
+                        }
                         selectedCells.Add(c);
                     }
                 }
@@ -83,32 +87,48 @@ public class GridSelector : MonoBehaviour
         }
         else
         {
-            cell.SetStats(CellState.Select);
+            if (GridManager.instance.deleteMode && Application.isEditor)
+            {
+                cell.SetStats(CellState.Block);
+            }
+            else
+            {
+                cell.SetStats(CellState.Select);
+            }
         }
 
         // Complete
         if (mouseUp)
         {
-            firstSelectGrid = -Vector2Int.one;
-            lastSelectGrid = -Vector2Int.one;
+            firstSelectGrid = CellIndex.NegativeOne;
+            lastSelectGrid = CellIndex.NegativeOne;
 
-            var canBuild = true;
-            foreach(var c in selectedCells)
+            if (GridManager.instance.deleteMode && Application.isEditor)
             {
-                if (!c.CanBuild)
+                foreach (var s in selectedCells)
                 {
-                    canBuild = false;
-                    break;
+                    if (!s.CanBuild)
+                        s.DestroyBuilding();
                 }
             }
-
-            if (canBuild)
+            else
             {
-                foreach (var c in selectedCells)
+                var canBuild = true;
+                foreach (var s in selectedCells)
                 {
-                    var building = Instantiate(buildingPrefab);
-                    building.transform.position = c.transform.position;
-                    c.Build(building);
+                    if (!s.CanBuild)
+                    {
+                        canBuild = false;
+                        break;
+                    }
+                }
+
+                if (canBuild)
+                {
+                    foreach (var c in selectedCells)
+                    {
+                        c.Build();
+                    }
                 }
             }
         }
