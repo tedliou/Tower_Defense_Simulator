@@ -266,26 +266,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000600000017010100000079000900000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 6
-    - Name: y
-      Entry: 3
-      Data: 9
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -436,26 +424,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000900000017010100000079000300000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 9
-    - Name: y
-      Entry: 3
-      Data: 3
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -523,26 +499,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000500000017010100000079000100000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 5
-    - Name: y
-      Entry: 3
-      Data: 1
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -693,26 +657,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000200000017010100000079000000000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 2
-    - Name: y
-      Entry: 3
-      Data: 0
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -780,26 +732,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000900000017010100000079000100000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 9
-    - Name: y
-      Entry: 3
-      Data: 1
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -929,26 +869,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000300000017010100000079000100000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 3
-    - Name: y
-      Entry: 3
-      Data: 1
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -1140,26 +1068,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000300000017010100000079000200000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 3
-    - Name: y
-      Entry: 3
-      Data: 2
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -1310,26 +1226,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000000000017010100000079000500000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 0
-    - Name: y
-      Entry: 3
-      Data: 5
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -1397,26 +1301,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000700000017010100000079000300000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 7
-    - Name: y
-      Entry: 3
-      Data: 3
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -1484,26 +1376,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000200000017010100000079000400000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 2
-    - Name: y
-      Entry: 3
-      Data: 4
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -1603,26 +1483,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000400000017010100000079000600000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 4
-    - Name: y
-      Entry: 3
-      Data: 6
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -1752,26 +1620,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000100000017010100000079000900000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 1
-    - Name: y
-      Entry: 3
-      Data: 9
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -1984,26 +1840,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000400000017010100000079000100000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 4
-    - Name: y
-      Entry: 3
-      Data: 1
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -2071,26 +1915,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000900000017010100000079000900000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 9
-    - Name: y
-      Entry: 3
-      Data: 9
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -2241,26 +2073,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000100000017010100000079000100000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 1
-    - Name: y
-      Entry: 3
-      Data: 1
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -2411,26 +2231,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000800000017010100000079000200000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 8
-    - Name: y
-      Entry: 3
-      Data: 2
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -2604,6 +2412,147 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 298779332}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &308104812
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 308104813}
+  - component: {fileID: 308104814}
+  - component: {fileID: 308104815}
+  - component: {fileID: 308104817}
+  - component: {fileID: 308104816}
+  - component: {fileID: 308104818}
+  m_Layer: 5
+  m_Name: DebugPanel
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &308104813
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 308104812}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1268554275}
+  - {fileID: 582689152}
+  - {fileID: 654363288}
+  - {fileID: 1695379686}
+  m_Father: {fileID: 1032640476}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 300, y: 0}
+  m_SizeDelta: {x: 600, y: 0}
+  m_Pivot: {x: 0.5, y: 1}
+--- !u!114 &308104814
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 308104812}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Padding:
+    m_Left: 20
+    m_Right: 0
+    m_Top: 30
+    m_Bottom: 0
+  m_ChildAlignment: 0
+  m_Spacing: 0
+  m_ChildForceExpandWidth: 1
+  m_ChildForceExpandHeight: 1
+  m_ChildControlWidth: 1
+  m_ChildControlHeight: 0
+  m_ChildScaleWidth: 0
+  m_ChildScaleHeight: 0
+  m_ReverseArrangement: 0
+--- !u!114 &308104815
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 308104812}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_HorizontalFit: 0
+  m_VerticalFit: 2
+--- !u!114 &308104816
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 308104812}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.5254902}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 0}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &308104817
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 308104812}
+  m_CullTransparentMesh: 1
+--- !u!114 &308104818
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 308104812}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 626af9daeda409c4c8120b5b880eb67f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  screenSize: {fileID: 582689152}
+  mousePos: {fileID: 654363288}
+  mouseEdge: {fileID: 1695379686}
+  camera: {fileID: 1919027223}
+  cameraLimit: {x: 30, y: 0, z: 15}
+  cameraMoveSpeed: 0.5
 --- !u!1 &312158217
 GameObject:
   m_ObjectHideFlags: 0
@@ -3172,26 +3121,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000900000017010100000079000600000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 9
-    - Name: y
-      Entry: 3
-      Data: 6
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -3667,26 +3604,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000400000017010100000079000500000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 4
-    - Name: y
-      Entry: 3
-      Data: 5
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -3754,26 +3679,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000100000017010100000079000000000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 1
-    - Name: y
-      Entry: 3
-      Data: 0
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -3924,26 +3837,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000500000017010100000079000200000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 5
-    - Name: y
-      Entry: 3
-      Data: 2
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -4094,26 +3995,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000600000017010100000079000300000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 6
-    - Name: y
-      Entry: 3
-      Data: 3
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -4181,26 +4070,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000600000017010100000079000100000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 6
-    - Name: y
-      Entry: 3
-      Data: 1
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -4317,26 +4194,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000300000017010100000079000800000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 3
-    - Name: y
-      Entry: 3
-      Data: 8
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -4404,26 +4269,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000900000017010100000079000800000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 9
-    - Name: y
-      Entry: 3
-      Data: 8
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -4574,26 +4427,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000300000017010100000079000300000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 3
-    - Name: y
-      Entry: 3
-      Data: 3
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -4903,26 +4744,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000700000017010100000079000900000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 7
-    - Name: y
-      Entry: 3
-      Data: 9
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -4990,26 +4819,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000600000017010100000079000400000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 6
-    - Name: y
-      Entry: 3
-      Data: 4
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -5160,26 +4977,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000800000017010100000079000500000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 8
-    - Name: y
-      Entry: 3
-      Data: 5
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -5187,6 +4992,206 @@ MonoBehaviour:
   hoverColor: {r: 1, g: 1, b: 1, a: 1}
   blockColor: {r: 1, g: 0, b: 0, a: 1}
   meshRenderer: {fileID: 1198015377}
+--- !u!1 &574720069
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 574720070}
+  - component: {fileID: 574720072}
+  - component: {fileID: 574720071}
+  m_Layer: 5
+  m_Name: Name
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &574720070
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 574720069}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 654363288}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &574720071
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 574720069}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: 'Mouse Pos:'
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 36
+  m_fontSizeBase: 36
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &574720072
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 574720069}
+  m_CullTransparentMesh: 1
+--- !u!1 &582689151
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 582689152}
+  - component: {fileID: 582689153}
+  m_Layer: 5
+  m_Name: ScreenSize
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &582689152
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 582689151}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1905236158}
+  - {fileID: 2033239560}
+  m_Father: {fileID: 308104813}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 60}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &582689153
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 582689151}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Padding:
+    m_Left: 0
+    m_Right: 0
+    m_Top: 0
+    m_Bottom: 0
+  m_ChildAlignment: 0
+  m_Spacing: 20
+  m_ChildForceExpandWidth: 0
+  m_ChildForceExpandHeight: 1
+  m_ChildControlWidth: 1
+  m_ChildControlHeight: 0
+  m_ChildScaleWidth: 0
+  m_ChildScaleHeight: 0
+  m_ReverseArrangement: 0
 --- !u!1 &583195641
 GameObject:
   m_ObjectHideFlags: 0
@@ -5413,26 +5418,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000400000017010100000079000300000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 4
-    - Name: y
-      Entry: 3
-      Data: 3
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -5500,26 +5493,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000000000017010100000079000000000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 0
-    - Name: y
-      Entry: 3
-      Data: 0
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -5587,26 +5568,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000200000017010100000079000800000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 2
-    - Name: y
-      Entry: 3
-      Data: 8
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -5923,26 +5892,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000600000017010100000079000500000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 6
-    - Name: y
-      Entry: 3
-      Data: 5
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -6176,26 +6133,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000400000017010100000079000800000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 4
-    - Name: y
-      Entry: 3
-      Data: 8
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -6408,26 +6353,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000100000017010100000079000500000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 1
-    - Name: y
-      Entry: 3
-      Data: 5
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -6435,6 +6368,71 @@ MonoBehaviour:
   hoverColor: {r: 1, g: 1, b: 1, a: 1}
   blockColor: {r: 1, g: 0, b: 0, a: 1}
   meshRenderer: {fileID: 424520754}
+--- !u!1 &654363287
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 654363288}
+  - component: {fileID: 654363289}
+  m_Layer: 5
+  m_Name: MousePos
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &654363288
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654363287}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 574720070}
+  - {fileID: 1359393114}
+  m_Father: {fileID: 308104813}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 60}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &654363289
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654363287}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Padding:
+    m_Left: 0
+    m_Right: 0
+    m_Top: 0
+    m_Bottom: 0
+  m_ChildAlignment: 0
+  m_Spacing: 20
+  m_ChildForceExpandWidth: 0
+  m_ChildForceExpandHeight: 1
+  m_ChildControlWidth: 1
+  m_ChildControlHeight: 0
+  m_ChildScaleWidth: 0
+  m_ChildScaleHeight: 0
+  m_ReverseArrangement: 0
 --- !u!1 &668559987
 GameObject:
   m_ObjectHideFlags: 0
@@ -6495,26 +6493,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000200000017010100000079000600000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 2
-    - Name: y
-      Entry: 3
-      Data: 6
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -6831,26 +6817,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000100000017010100000079000700000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 1
-    - Name: y
-      Entry: 3
-      Data: 7
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -6918,26 +6892,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000200000017010100000079000200000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 2
-    - Name: y
-      Entry: 3
-      Data: 2
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -7452,26 +7414,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000500000017010100000079000000000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 5
-    - Name: y
-      Entry: 3
-      Data: 0
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -7539,26 +7489,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000100000017010100000079000400000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 1
-    - Name: y
-      Entry: 3
-      Data: 4
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -7614,8 +7552,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 01010700000063006f006e00740065006e0074002f000000000167000000530079007300740065006d002e0043006f006c006c0065006300740069006f006e0073002e00470065006e0065007200690063002e00440069006300740069006f006e00610072007900600032005b005b00430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d004300530068006100720070005d002c005b00430065006c006c002c00200041007300730065006d0062006c0079002d004300530068006100720070005d005d002c0020006d00730063006f0072006c00690062000000000001010800000063006f006d00700061007200650072002f01000000015b000000530079007300740065006d002e0043006f006c006c0065006300740069006f006e0073002e00470065006e0065007200690063002e004f0062006a0065006300740045007100750061006c0069007400790043006f006d0070006100720065007200600031005b005b00430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d004300530068006100720070005d005d002c0020006d00730063006f0072006c00690062000100000005066400000000000000042e03010200000024006b002f02000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d00430053006800610072007000170101000000780000000000170101000000790000000000050b0102000000240076000000000005042e03010200000024006b003002000000170101000000780001000000170101000000790000000000050b0102000000240076000100000005042e03010200000024006b003002000000170101000000780002000000170101000000790000000000050b0102000000240076000200000005042e03010200000024006b003002000000170101000000780003000000170101000000790000000000050b0102000000240076000300000005042e03010200000024006b003002000000170101000000780004000000170101000000790000000000050b0102000000240076000400000005042e03010200000024006b003002000000170101000000780005000000170101000000790000000000050b0102000000240076000500000005042e03010200000024006b003002000000170101000000780006000000170101000000790000000000050b0102000000240076000600000005042e03010200000024006b003002000000170101000000780007000000170101000000790000000000050b0102000000240076000700000005042e03010200000024006b003002000000170101000000780008000000170101000000790000000000050b0102000000240076000800000005042e03010200000024006b003002000000170101000000780009000000170101000000790000000000050b0102000000240076000900000005042e03010200000024006b003002000000170101000000780000000000170101000000790001000000050b0102000000240076000a00000005042e03010200000024006b003002000000170101000000780001000000170101000000790001000000050b0102000000240076000b00000005042e03010200000024006b003002000000170101000000780002000000170101000000790001000000050b0102000000240076000c00000005042e03010200000024006b003002000000170101000000780003000000170101000000790001000000050b0102000000240076000d00000005042e03010200000024006b003002000000170101000000780004000000170101000000790001000000050b0102000000240076000e00000005042e03010200000024006b003002000000170101000000780005000000170101000000790001000000050b0102000000240076000f00000005042e03010200000024006b003002000000170101000000780006000000170101000000790001000000050b0102000000240076001000000005042e03010200000024006b003002000000170101000000780007000000170101000000790001000000050b0102000000240076001100000005042e03010200000024006b003002000000170101000000780008000000170101000000790001000000050b0102000000240076001200000005042e03010200000024006b003002000000170101000000780009000000170101000000790001000000050b0102000000240076001300000005042e03010200000024006b003002000000170101000000780000000000170101000000790002000000050b0102000000240076001400000005042e03010200000024006b003002000000170101000000780001000000170101000000790002000000050b0102000000240076001500000005042e03010200000024006b003002000000170101000000780002000000170101000000790002000000050b0102000000240076001600000005042e03010200000024006b003002000000170101000000780003000000170101000000790002000000050b0102000000240076001700000005042e03010200000024006b003002000000170101000000780004000000170101000000790002000000050b0102000000240076001800000005042e03010200000024006b003002000000170101000000780005000000170101000000790002000000050b0102000000240076001900000005042e03010200000024006b003002000000170101000000780006000000170101000000790002000000050b0102000000240076001a00000005042e03010200000024006b003002000000170101000000780007000000170101000000790002000000050b0102000000240076001b00000005042e03010200000024006b003002000000170101000000780008000000170101000000790002000000050b0102000000240076001c00000005042e03010200000024006b003002000000170101000000780009000000170101000000790002000000050b0102000000240076001d00000005042e03010200000024006b003002000000170101000000780000000000170101000000790003000000050b0102000000240076001e00000005042e03010200000024006b003002000000170101000000780001000000170101000000790003000000050b0102000000240076001f00000005042e03010200000024006b003002000000170101000000780002000000170101000000790003000000050b0102000000240076002000000005042e03010200000024006b003002000000170101000000780003000000170101000000790003000000050b0102000000240076002100000005042e03010200000024006b003002000000170101000000780004000000170101000000790003000000050b0102000000240076002200000005042e03010200000024006b003002000000170101000000780005000000170101000000790003000000050b0102000000240076002300000005042e03010200000024006b003002000000170101000000780006000000170101000000790003000000050b0102000000240076002400000005042e03010200000024006b003002000000170101000000780007000000170101000000790003000000050b0102000000240076002500000005042e03010200000024006b003002000000170101000000780008000000170101000000790003000000050b0102000000240076002600000005042e03010200000024006b003002000000170101000000780009000000170101000000790003000000050b0102000000240076002700000005042e03010200000024006b003002000000170101000000780000000000170101000000790004000000050b0102000000240076002800000005042e03010200000024006b003002000000170101000000780001000000170101000000790004000000050b0102000000240076002900000005042e03010200000024006b003002000000170101000000780002000000170101000000790004000000050b0102000000240076002a00000005042e03010200000024006b003002000000170101000000780003000000170101000000790004000000050b0102000000240076002b00000005042e03010200000024006b003002000000170101000000780004000000170101000000790004000000050b0102000000240076002c00000005042e03010200000024006b003002000000170101000000780005000000170101000000790004000000050b0102000000240076002d00000005042e03010200000024006b003002000000170101000000780006000000170101000000790004000000050b0102000000240076002e00000005042e03010200000024006b003002000000170101000000780007000000170101000000790004000000050b0102000000240076002f00000005042e03010200000024006b003002000000170101000000780008000000170101000000790004000000050b0102000000240076003000000005042e03010200000024006b003002000000170101000000780009000000170101000000790004000000050b0102000000240076003100000005042e03010200000024006b003002000000170101000000780000000000170101000000790005000000050b0102000000240076003200000005042e03010200000024006b003002000000170101000000780001000000170101000000790005000000050b0102000000240076003300000005042e03010200000024006b003002000000170101000000780002000000170101000000790005000000050b0102000000240076003400000005042e03010200000024006b003002000000170101000000780003000000170101000000790005000000050b0102000000240076003500000005042e03010200000024006b003002000000170101000000780004000000170101000000790005000000050b0102000000240076003600000005042e03010200000024006b003002000000170101000000780005000000170101000000790005000000050b0102000000240076003700000005042e03010200000024006b003002000000170101000000780006000000170101000000790005000000050b0102000000240076003800000005042e03010200000024006b003002000000170101000000780007000000170101000000790005000000050b0102000000240076003900000005042e03010200000024006b003002000000170101000000780008000000170101000000790005000000050b0102000000240076003a00000005042e03010200000024006b003002000000170101000000780009000000170101000000790005000000050b0102000000240076003b00000005042e03010200000024006b003002000000170101000000780000000000170101000000790006000000050b0102000000240076003c00000005042e03010200000024006b003002000000170101000000780001000000170101000000790006000000050b0102000000240076003d00000005042e03010200000024006b003002000000170101000000780002000000170101000000790006000000050b0102000000240076003e00000005042e03010200000024006b003002000000170101000000780003000000170101000000790006000000050b0102000000240076003f00000005042e03010200000024006b003002000000170101000000780004000000170101000000790006000000050b0102000000240076004000000005042e03010200000024006b003002000000170101000000780005000000170101000000790006000000050b0102000000240076004100000005042e03010200000024006b003002000000170101000000780006000000170101000000790006000000050b0102000000240076004200000005042e03010200000024006b003002000000170101000000780007000000170101000000790006000000050b0102000000240076004300000005042e03010200000024006b003002000000170101000000780008000000170101000000790006000000050b0102000000240076004400000005042e03010200000024006b003002000000170101000000780009000000170101000000790006000000050b0102000000240076004500000005042e03010200000024006b003002000000170101000000780000000000170101000000790007000000050b0102000000240076004600000005042e03010200000024006b003002000000170101000000780001000000170101000000790007000000050b0102000000240076004700000005042e03010200000024006b003002000000170101000000780002000000170101000000790007000000050b0102000000240076004800000005042e03010200000024006b003002000000170101000000780003000000170101000000790007000000050b0102000000240076004900000005042e03010200000024006b003002000000170101000000780004000000170101000000790007000000050b0102000000240076004a00000005042e03010200000024006b003002000000170101000000780005000000170101000000790007000000050b0102000000240076004b00000005042e03010200000024006b003002000000170101000000780006000000170101000000790007000000050b0102000000240076004c00000005042e03010200000024006b003002000000170101000000780007000000170101000000790007000000050b0102000000240076004d00000005042e03010200000024006b003002000000170101000000780008000000170101000000790007000000050b0102000000240076004e00000005042e03010200000024006b003002000000170101000000780009000000170101000000790007000000050b0102000000240076004f00000005042e03010200000024006b003002000000170101000000780000000000170101000000790008000000050b0102000000240076005000000005042e03010200000024006b003002000000170101000000780001000000170101000000790008000000050b0102000000240076005100000005042e03010200000024006b003002000000170101000000780002000000170101000000790008000000050b0102000000240076005200000005042e03010200000024006b003002000000170101000000780003000000170101000000790008000000050b0102000000240076005300000005042e03010200000024006b003002000000170101000000780004000000170101000000790008000000050b0102000000240076005400000005042e03010200000024006b003002000000170101000000780005000000170101000000790008000000050b0102000000240076005500000005042e03010200000024006b003002000000170101000000780006000000170101000000790008000000050b0102000000240076005600000005042e03010200000024006b003002000000170101000000780007000000170101000000790008000000050b0102000000240076005700000005042e03010200000024006b003002000000170101000000780008000000170101000000790008000000050b0102000000240076005800000005042e03010200000024006b003002000000170101000000780009000000170101000000790008000000050b0102000000240076005900000005042e03010200000024006b003002000000170101000000780000000000170101000000790009000000050b0102000000240076005a00000005042e03010200000024006b003002000000170101000000780001000000170101000000790009000000050b0102000000240076005b00000005042e03010200000024006b003002000000170101000000780002000000170101000000790009000000050b0102000000240076005c00000005042e03010200000024006b003002000000170101000000780003000000170101000000790009000000050b0102000000240076005d00000005042e03010200000024006b003002000000170101000000780004000000170101000000790009000000050b0102000000240076005e00000005042e03010200000024006b003002000000170101000000780005000000170101000000790009000000050b0102000000240076005f00000005042e03010200000024006b003002000000170101000000780006000000170101000000790009000000050b0102000000240076006000000005042e03010200000024006b003002000000170101000000780007000000170101000000790009000000050b0102000000240076006100000005042e03010200000024006b003002000000170101000000780008000000170101000000790009000000050b0102000000240076006200000005042e03010200000024006b003002000000170101000000780009000000170101000000790009000000050b01020000002400760063000000050705
     ReferencedUnityObjects:
     - {fileID: 604705843}
     - {fileID: 445136024}
@@ -7721,2127 +7659,7 @@ MonoBehaviour:
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: content
-      Entry: 7
-      Data: 0|System.Collections.Generic.Dictionary`2[[CellIndex, Assembly-CSharp],[Cell,
-        Assembly-CSharp]], mscorlib
-    - Name: comparer
-      Entry: 7
-      Data: 1|System.Collections.Generic.ObjectEqualityComparer`1[[CellIndex, Assembly-CSharp]],
-        mscorlib
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 12
-      Data: 100
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 0
-    - Name: y
-      Entry: 3
-      Data: 0
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 0
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 1
-    - Name: y
-      Entry: 3
-      Data: 0
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 1
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 2
-    - Name: y
-      Entry: 3
-      Data: 0
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 2
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 3
-    - Name: y
-      Entry: 3
-      Data: 0
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 3
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 4
-    - Name: y
-      Entry: 3
-      Data: 0
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 4
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 5
-    - Name: y
-      Entry: 3
-      Data: 0
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 5
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 6
-    - Name: y
-      Entry: 3
-      Data: 0
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 6
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 7
-    - Name: y
-      Entry: 3
-      Data: 0
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 7
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 8
-    - Name: y
-      Entry: 3
-      Data: 0
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 8
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 9
-    - Name: y
-      Entry: 3
-      Data: 0
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 9
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 0
-    - Name: y
-      Entry: 3
-      Data: 1
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 10
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 1
-    - Name: y
-      Entry: 3
-      Data: 1
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 11
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 2
-    - Name: y
-      Entry: 3
-      Data: 1
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 12
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 3
-    - Name: y
-      Entry: 3
-      Data: 1
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 13
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 4
-    - Name: y
-      Entry: 3
-      Data: 1
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 14
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 5
-    - Name: y
-      Entry: 3
-      Data: 1
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 15
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 6
-    - Name: y
-      Entry: 3
-      Data: 1
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 16
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 7
-    - Name: y
-      Entry: 3
-      Data: 1
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 17
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 8
-    - Name: y
-      Entry: 3
-      Data: 1
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 18
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 9
-    - Name: y
-      Entry: 3
-      Data: 1
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 19
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 0
-    - Name: y
-      Entry: 3
-      Data: 2
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 20
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 1
-    - Name: y
-      Entry: 3
-      Data: 2
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 21
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 2
-    - Name: y
-      Entry: 3
-      Data: 2
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 22
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 3
-    - Name: y
-      Entry: 3
-      Data: 2
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 23
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 4
-    - Name: y
-      Entry: 3
-      Data: 2
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 24
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 5
-    - Name: y
-      Entry: 3
-      Data: 2
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 25
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 6
-    - Name: y
-      Entry: 3
-      Data: 2
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 26
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 7
-    - Name: y
-      Entry: 3
-      Data: 2
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 27
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 8
-    - Name: y
-      Entry: 3
-      Data: 2
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 28
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 9
-    - Name: y
-      Entry: 3
-      Data: 2
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 29
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 0
-    - Name: y
-      Entry: 3
-      Data: 3
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 30
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 1
-    - Name: y
-      Entry: 3
-      Data: 3
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 31
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 2
-    - Name: y
-      Entry: 3
-      Data: 3
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 32
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 3
-    - Name: y
-      Entry: 3
-      Data: 3
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 33
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 4
-    - Name: y
-      Entry: 3
-      Data: 3
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 34
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 5
-    - Name: y
-      Entry: 3
-      Data: 3
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 35
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 6
-    - Name: y
-      Entry: 3
-      Data: 3
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 36
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 7
-    - Name: y
-      Entry: 3
-      Data: 3
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 37
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 8
-    - Name: y
-      Entry: 3
-      Data: 3
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 38
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 9
-    - Name: y
-      Entry: 3
-      Data: 3
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 39
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 0
-    - Name: y
-      Entry: 3
-      Data: 4
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 40
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 1
-    - Name: y
-      Entry: 3
-      Data: 4
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 41
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 2
-    - Name: y
-      Entry: 3
-      Data: 4
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 42
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 3
-    - Name: y
-      Entry: 3
-      Data: 4
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 43
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 4
-    - Name: y
-      Entry: 3
-      Data: 4
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 44
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 5
-    - Name: y
-      Entry: 3
-      Data: 4
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 45
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 6
-    - Name: y
-      Entry: 3
-      Data: 4
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 46
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 7
-    - Name: y
-      Entry: 3
-      Data: 4
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 47
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 8
-    - Name: y
-      Entry: 3
-      Data: 4
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 48
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 9
-    - Name: y
-      Entry: 3
-      Data: 4
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 49
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 0
-    - Name: y
-      Entry: 3
-      Data: 5
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 50
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 1
-    - Name: y
-      Entry: 3
-      Data: 5
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 51
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 2
-    - Name: y
-      Entry: 3
-      Data: 5
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 52
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 3
-    - Name: y
-      Entry: 3
-      Data: 5
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 53
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 4
-    - Name: y
-      Entry: 3
-      Data: 5
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 54
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 5
-    - Name: y
-      Entry: 3
-      Data: 5
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 55
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 6
-    - Name: y
-      Entry: 3
-      Data: 5
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 56
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 7
-    - Name: y
-      Entry: 3
-      Data: 5
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 57
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 8
-    - Name: y
-      Entry: 3
-      Data: 5
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 58
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 9
-    - Name: y
-      Entry: 3
-      Data: 5
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 59
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 0
-    - Name: y
-      Entry: 3
-      Data: 6
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 60
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 1
-    - Name: y
-      Entry: 3
-      Data: 6
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 61
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 2
-    - Name: y
-      Entry: 3
-      Data: 6
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 62
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 3
-    - Name: y
-      Entry: 3
-      Data: 6
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 63
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 4
-    - Name: y
-      Entry: 3
-      Data: 6
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 64
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 5
-    - Name: y
-      Entry: 3
-      Data: 6
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 65
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 6
-    - Name: y
-      Entry: 3
-      Data: 6
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 66
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 7
-    - Name: y
-      Entry: 3
-      Data: 6
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 67
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 8
-    - Name: y
-      Entry: 3
-      Data: 6
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 68
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 9
-    - Name: y
-      Entry: 3
-      Data: 6
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 69
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 0
-    - Name: y
-      Entry: 3
-      Data: 7
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 70
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 1
-    - Name: y
-      Entry: 3
-      Data: 7
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 71
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 2
-    - Name: y
-      Entry: 3
-      Data: 7
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 72
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 3
-    - Name: y
-      Entry: 3
-      Data: 7
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 73
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 4
-    - Name: y
-      Entry: 3
-      Data: 7
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 74
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 5
-    - Name: y
-      Entry: 3
-      Data: 7
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 75
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 6
-    - Name: y
-      Entry: 3
-      Data: 7
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 76
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 7
-    - Name: y
-      Entry: 3
-      Data: 7
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 77
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 8
-    - Name: y
-      Entry: 3
-      Data: 7
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 78
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 9
-    - Name: y
-      Entry: 3
-      Data: 7
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 79
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 0
-    - Name: y
-      Entry: 3
-      Data: 8
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 80
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 1
-    - Name: y
-      Entry: 3
-      Data: 8
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 81
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 2
-    - Name: y
-      Entry: 3
-      Data: 8
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 82
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 3
-    - Name: y
-      Entry: 3
-      Data: 8
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 83
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 4
-    - Name: y
-      Entry: 3
-      Data: 8
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 84
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 5
-    - Name: y
-      Entry: 3
-      Data: 8
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 85
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 6
-    - Name: y
-      Entry: 3
-      Data: 8
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 86
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 7
-    - Name: y
-      Entry: 3
-      Data: 8
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 87
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 8
-    - Name: y
-      Entry: 3
-      Data: 8
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 88
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 9
-    - Name: y
-      Entry: 3
-      Data: 8
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 89
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 0
-    - Name: y
-      Entry: 3
-      Data: 9
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 90
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 1
-    - Name: y
-      Entry: 3
-      Data: 9
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 91
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 2
-    - Name: y
-      Entry: 3
-      Data: 9
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 92
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 3
-    - Name: y
-      Entry: 3
-      Data: 9
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 93
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 4
-    - Name: y
-      Entry: 3
-      Data: 9
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 94
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 5
-    - Name: y
-      Entry: 3
-      Data: 9
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 95
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 6
-    - Name: y
-      Entry: 3
-      Data: 9
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 96
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 7
-    - Name: y
-      Entry: 3
-      Data: 9
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 97
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 8
-    - Name: y
-      Entry: 3
-      Data: 9
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 98
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 9
-    - Name: y
-      Entry: 3
-      Data: 9
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: $v
-      Entry: 10
-      Data: 99
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 13
-      Data: 
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   saveOnPlay: 1
   deleteMode: 0
   gridSize: {x: 10, y: 10}
@@ -10012,26 +7830,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000700000017010100000079000700000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 7
-    - Name: y
-      Entry: 3
-      Data: 7
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -11095,26 +8901,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000300000017010100000079000400000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 3
-    - Name: y
-      Entry: 3
-      Data: 4
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -11182,26 +8976,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000200000017010100000079000500000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 2
-    - Name: y
-      Entry: 3
-      Data: 5
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -11352,26 +9134,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000500000017010100000079000500000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 5
-    - Name: y
-      Entry: 3
-      Data: 5
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -11439,26 +9209,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000100000017010100000079000600000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 1
-    - Name: y
-      Entry: 3
-      Data: 6
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -11478,6 +9236,7 @@ GameObject:
   - component: {fileID: 963194227}
   - component: {fileID: 963194226}
   - component: {fileID: 963194229}
+  - component: {fileID: 963194230}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -11516,11 +9275,11 @@ Camera:
     y: 0
     width: 1
     height: 1
-  near clip plane: -50
+  near clip plane: 0.01
   far clip plane: 50
   field of view: 60
-  orthographic: 1
-  orthographic size: 12.4
+  orthographic: 0
+  orthographic size: 8.6
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -11543,14 +9302,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0.1464466, y: -0.8535535, z: 0.35355338, w: 0.35355338}
-  m_LocalPosition: {x: 0, y: -1.77, z: 0}
+  m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 25.88, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 45, y: -135, z: 0}
+  m_LocalEulerAnglesHint: {x: 35, y: -135, z: 0}
 --- !u!114 &963194229
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11584,6 +9343,40 @@ MonoBehaviour:
   m_RequiresDepthTexture: 0
   m_RequiresColorTexture: 0
   m_Version: 2
+--- !u!114 &963194230
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 963194225}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72ece51f2901e7445ab60da3685d6b5f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ShowDebugText: 0
+  m_ShowCameraFrustum: 1
+  m_IgnoreTimeScale: 0
+  m_WorldUpOverride: {fileID: 0}
+  m_UpdateMethod: 2
+  m_BlendUpdateMethod: 1
+  m_DefaultBlend:
+    m_Style: 1
+    m_Time: 2
+    m_CustomCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  m_CustomBlends: {fileID: 0}
+  m_CameraCutEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_CameraActivatedEvent:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &977007092
 GameObject:
   m_ObjectHideFlags: 0
@@ -11789,26 +9582,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000800000017010100000079000000000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 8
-    - Name: y
-      Entry: 3
-      Data: 0
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -12183,26 +9964,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000000000017010100000079000400000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 0
-    - Name: y
-      Entry: 3
-      Data: 4
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -12293,6 +10062,107 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1022267636}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1032640472
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1032640476}
+  - component: {fileID: 1032640475}
+  - component: {fileID: 1032640474}
+  - component: {fileID: 1032640473}
+  m_Layer: 5
+  m_Name: Canvas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1032640473
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1032640472}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 503
+--- !u!114 &1032640474
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1032640472}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 0
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 1920, y: 1080}
+  m_ScreenMatchMode: 1
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
+--- !u!223 &1032640475
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1032640472}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 0
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_AdditionalShaderChannelsFlag: 25
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
+--- !u!224 &1032640476
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1032640472}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 308104813}
+  m_Father: {fileID: 0}
+  m_RootOrder: 16
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
 --- !u!1 &1038585477
 GameObject:
   m_ObjectHideFlags: 0
@@ -12436,26 +10306,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000200000017010100000079000700000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 2
-    - Name: y
-      Entry: 3
-      Data: 7
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -12882,26 +10740,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000300000017010100000079000000000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 3
-    - Name: y
-      Entry: 3
-      Data: 0
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -12969,26 +10815,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000600000017010100000079000200000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 6
-    - Name: y
-      Entry: 3
-      Data: 2
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -13222,26 +11056,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000300000017010100000079000600000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 3
-    - Name: y
-      Entry: 3
-      Data: 6
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -13899,6 +11721,141 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1268554274
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1268554275}
+  - component: {fileID: 1268554277}
+  - component: {fileID: 1268554276}
+  m_Layer: 5
+  m_Name: Title
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1268554275
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1268554274}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 308104813}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 70}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1268554276
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1268554274}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: Debug Panel
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 36
+  m_fontSizeBase: 36
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 1
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &1268554277
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1268554274}
+  m_CullTransparentMesh: 1
 --- !u!1 &1268624808
 GameObject:
   m_ObjectHideFlags: 0
@@ -13990,26 +11947,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000400000017010100000079000200000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 4
-    - Name: y
-      Entry: 3
-      Data: 2
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -14298,26 +12243,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000000000017010100000079000700000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 0
-    - Name: y
-      Entry: 3
-      Data: 7
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -14447,26 +12380,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000800000017010100000079000100000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 8
-    - Name: y
-      Entry: 3
-      Data: 1
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -14571,6 +12492,141 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1359393113
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1359393114}
+  - component: {fileID: 1359393116}
+  - component: {fileID: 1359393115}
+  m_Layer: 5
+  m_Name: Value
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1359393114
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1359393113}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 654363288}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1359393115
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1359393113}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: (0, 0)
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 36
+  m_fontSizeBase: 36
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &1359393116
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1359393113}
+  m_CullTransparentMesh: 1
 --- !u!1001 &1371243956
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14693,26 +12749,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000300000017010100000079000900000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 3
-    - Name: y
-      Entry: 3
-      Data: 9
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -14863,26 +12907,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000700000017010100000079000100000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 7
-    - Name: y
-      Entry: 3
-      Data: 1
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -14950,26 +12982,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000900000017010100000079000400000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 9
-    - Name: y
-      Entry: 3
-      Data: 4
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -15203,26 +13223,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000600000017010100000079000000000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 6
-    - Name: y
-      Entry: 3
-      Data: 0
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -15461,26 +13469,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000600000017010100000079000700000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 6
-    - Name: y
-      Entry: 3
-      Data: 7
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -15548,26 +13544,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000300000017010100000079000500000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 3
-    - Name: y
-      Entry: 3
-      Data: 5
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -15658,6 +13642,101 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1478851440}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1480805024
+GameObject:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1480805025}
+  - component: {fileID: 1480805028}
+  - component: {fileID: 1480805027}
+  - component: {fileID: 1480805029}
+  m_Layer: 0
+  m_Name: cm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1480805025
+Transform:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1480805024}
+  m_LocalRotation: {x: 0.22937879, y: -0.76669824, z: 0.4661607, w: -0.37716493}
+  m_LocalPosition: {x: 1.7359824, y: 3.6449018, z: 17.254961}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1919027223}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1480805027
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1480805024}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4044717213e31446939f7bd49c896ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_TrackedObjectOffset: {x: 0, y: 0, z: 0}
+  m_LookaheadTime: 0
+  m_LookaheadSmoothing: 0
+  m_LookaheadIgnoreY: 0
+  m_HorizontalDamping: 0.5
+  m_VerticalDamping: 0.5
+  m_ScreenX: 0.5
+  m_ScreenY: 0.5
+  m_DeadZoneWidth: 0
+  m_DeadZoneHeight: 0
+  m_SoftZoneWidth: 0.8
+  m_SoftZoneHeight: 0.8
+  m_BiasX: 0
+  m_BiasY: 0
+  m_CenterOnActivate: 1
+--- !u!114 &1480805028
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1480805024}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac0b09e7857660247b1477e93731de29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1480805029
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1480805024}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa7155796051b734daa718462081dc5f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_BindingMode: 1
+  m_FollowOffset: {x: 0, y: 29.88, z: -8.06}
+  m_XDamping: 1
+  m_YDamping: 1
+  m_ZDamping: 1
+  m_AngularDampingMode: 0
+  m_PitchDamping: 0
+  m_YawDamping: 0
+  m_RollDamping: 0
+  m_AngularDamping: 0
 --- !u!1 &1483102273
 GameObject:
   m_ObjectHideFlags: 0
@@ -15718,26 +13797,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000100000017010100000079000200000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 1
-    - Name: y
-      Entry: 3
-      Data: 2
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -15769,7 +13836,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1489270828}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
   m_Name: 
@@ -15854,26 +13921,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000800000017010100000079000800000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 8
-    - Name: y
-      Entry: 3
-      Data: 8
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -15941,26 +13996,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000200000017010100000079000900000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 2
-    - Name: y
-      Entry: 3
-      Data: 9
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -16028,26 +14071,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000700000017010100000079000800000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 7
-    - Name: y
-      Entry: 3
-      Data: 8
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -16115,26 +14146,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000000000017010100000079000600000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 0
-    - Name: y
-      Entry: 3
-      Data: 6
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -16202,26 +14221,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000200000017010100000079000300000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 2
-    - Name: y
-      Entry: 3
-      Data: 3
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -16386,26 +14393,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000700000017010100000079000000000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 7
-    - Name: y
-      Entry: 3
-      Data: 0
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -16473,26 +14468,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000900000017010100000079000700000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 9
-    - Name: y
-      Entry: 3
-      Data: 7
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -16500,6 +14483,141 @@ MonoBehaviour:
   hoverColor: {r: 1, g: 1, b: 1, a: 1}
   blockColor: {r: 1, g: 0, b: 0, a: 1}
   meshRenderer: {fileID: 1689698401}
+--- !u!1 &1533687516
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1533687517}
+  - component: {fileID: 1533687519}
+  - component: {fileID: 1533687518}
+  m_Layer: 5
+  m_Name: Value
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1533687517
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1533687516}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1695379686}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1533687518
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1533687516}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: (0, 0)
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 36
+  m_fontSizeBase: 36
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &1533687519
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1533687516}
+  m_CullTransparentMesh: 1
 --- !u!1 &1538308053
 GameObject:
   m_ObjectHideFlags: 0
@@ -16560,26 +14678,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000900000017010100000079000200000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 9
-    - Name: y
-      Entry: 3
-      Data: 2
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -16647,26 +14753,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000500000017010100000079000800000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 5
-    - Name: y
-      Entry: 3
-      Data: 8
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -16734,26 +14828,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000400000017010100000079000000000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 4
-    - Name: y
-      Entry: 3
-      Data: 0
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -17167,26 +15249,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000500000017010100000079000400000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 5
-    - Name: y
-      Entry: 3
-      Data: 4
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -17254,26 +15324,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000400000017010100000079000900000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 4
-    - Name: y
-      Entry: 3
-      Data: 9
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -17604,26 +15662,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000800000017010100000079000900000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 8
-    - Name: y
-      Entry: 3
-      Data: 9
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -17691,26 +15737,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000800000017010100000079000700000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 8
-    - Name: y
-      Entry: 3
-      Data: 7
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -17840,26 +15874,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000400000017010100000079000400000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 4
-    - Name: y
-      Entry: 3
-      Data: 4
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -18155,26 +16177,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000100000017010100000079000800000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 1
-    - Name: y
-      Entry: 3
-      Data: 8
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -18182,6 +16192,71 @@ MonoBehaviour:
   hoverColor: {r: 1, g: 1, b: 1, a: 1}
   blockColor: {r: 1, g: 0, b: 0, a: 1}
   meshRenderer: {fileID: 2112729808}
+--- !u!1 &1695379685
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1695379686}
+  - component: {fileID: 1695379687}
+  m_Layer: 5
+  m_Name: MouseEdge
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1695379686
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1695379685}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1793180341}
+  - {fileID: 1533687517}
+  m_Father: {fileID: 308104813}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 60}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1695379687
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1695379685}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Padding:
+    m_Left: 0
+    m_Right: 0
+    m_Top: 0
+    m_Bottom: 0
+  m_ChildAlignment: 0
+  m_Spacing: 20
+  m_ChildForceExpandWidth: 0
+  m_ChildForceExpandHeight: 1
+  m_ChildControlWidth: 1
+  m_ChildControlHeight: 0
+  m_ChildScaleWidth: 0
+  m_ChildScaleHeight: 0
+  m_ReverseArrangement: 0
 --- !u!1 &1706347803
 GameObject:
   m_ObjectHideFlags: 0
@@ -18242,26 +16317,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000500000017010100000079000300000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 5
-    - Name: y
-      Entry: 3
-      Data: 3
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -18510,26 +16573,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000600000017010100000079000800000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 6
-    - Name: y
-      Entry: 3
-      Data: 8
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -18680,26 +16731,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000100000017010100000079000300000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 1
-    - Name: y
-      Entry: 3
-      Data: 3
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -18767,26 +16806,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000900000017010100000079000000000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 9
-    - Name: y
-      Entry: 3
-      Data: 0
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -18916,26 +16943,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000500000017010100000079000700000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 5
-    - Name: y
-      Entry: 3
-      Data: 7
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -19065,26 +17080,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000000000017010100000079000200000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 0
-    - Name: y
-      Entry: 3
-      Data: 2
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -19175,6 +17178,141 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1786700434}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1793180340
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1793180341}
+  - component: {fileID: 1793180343}
+  - component: {fileID: 1793180342}
+  m_Layer: 5
+  m_Name: Name
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1793180341
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1793180340}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1695379686}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1793180342
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1793180340}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: 'Mouse Edge:'
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 36
+  m_fontSizeBase: 36
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &1793180343
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1793180340}
+  m_CullTransparentMesh: 1
 --- !u!1 &1808801723
 GameObject:
   m_ObjectHideFlags: 0
@@ -19650,26 +17788,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000000000017010100000079000300000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 0
-    - Name: y
-      Entry: 3
-      Data: 3
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -19737,26 +17863,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000800000017010100000079000600000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 8
-    - Name: y
-      Entry: 3
-      Data: 6
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -19824,26 +17938,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000700000017010100000079000500000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 7
-    - Name: y
-      Entry: 3
-      Data: 5
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -19911,26 +18013,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000800000017010100000079000400000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 8
-    - Name: y
-      Entry: 3
-      Data: 4
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -20081,26 +18171,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000000000017010100000079000100000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 0
-    - Name: y
-      Entry: 3
-      Data: 1
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -20108,6 +18186,141 @@ MonoBehaviour:
   hoverColor: {r: 1, g: 1, b: 1, a: 1}
   blockColor: {r: 1, g: 0, b: 0, a: 1}
   meshRenderer: {fileID: 1394665565}
+--- !u!1 &1905236157
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1905236158}
+  - component: {fileID: 1905236160}
+  - component: {fileID: 1905236159}
+  m_Layer: 5
+  m_Name: Name
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1905236158
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1905236157}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 582689152}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1905236159
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1905236157}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: 'Screen Size:'
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 36
+  m_fontSizeBase: 36
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &1905236160
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1905236157}
+  m_CullTransparentMesh: 1
 --- !u!1 &1908176715
 GameObject:
   m_ObjectHideFlags: 0
@@ -20274,6 +18487,77 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1913271604}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1919027221
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1919027223}
+  - component: {fileID: 1919027222}
+  m_Layer: 0
+  m_Name: CM vcam1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1919027222
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1919027221}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45e653bab7fb20e499bda25e1b646fea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ExcludedPropertiesInInspector:
+  - m_Script
+  m_LockStageInInspector: 
+  m_StreamingVersion: 20170927
+  m_Priority: 10
+  m_StandbyUpdate: 2
+  m_LookAt: {fileID: 0}
+  m_Follow: {fileID: 0}
+  m_Lens:
+    FieldOfView: 60
+    OrthographicSize: 8.6
+    NearClipPlane: 0.01
+    FarClipPlane: 50
+    Dutch: 0
+    ModeOverride: 0
+    LensShift: {x: 0, y: 0}
+    GateFit: 2
+    m_SensorSize: {x: 1.7786459, y: 1}
+  m_Transitions:
+    m_BlendHint: 0
+    m_InheritPosition: 0
+    m_OnCameraLive:
+      m_PersistentCalls:
+        m_Calls: []
+  m_LegacyBlendHint: 0
+  m_ComponentOwner: {fileID: 1480805025}
+--- !u!4 &1919027223
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1919027221}
+  m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 25.88, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1480805025}
+  m_Father: {fileID: 0}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
 --- !u!1 &1920346780
 GameObject:
   m_ObjectHideFlags: 0
@@ -20417,26 +18701,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000600000017010100000079000600000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 6
-    - Name: y
-      Entry: 3
-      Data: 6
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -20504,26 +18776,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000400000017010100000079000700000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 4
-    - Name: y
-      Entry: 3
-      Data: 7
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -20591,26 +18851,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000800000017010100000079000300000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 8
-    - Name: y
-      Entry: 3
-      Data: 3
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -20678,26 +18926,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000500000017010100000079000900000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 5
-    - Name: y
-      Entry: 3
-      Data: 9
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -20827,26 +19063,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000000000017010100000079000800000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 0
-    - Name: y
-      Entry: 3
-      Data: 8
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -21142,26 +19366,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000700000017010100000079000600000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 7
-    - Name: y
-      Entry: 3
-      Data: 6
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -21229,26 +19441,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000200000017010100000079000100000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 2
-    - Name: y
-      Entry: 3
-      Data: 1
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -21316,26 +19516,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000500000017010100000079000600000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 5
-    - Name: y
-      Entry: 3
-      Data: 6
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -21467,6 +19655,141 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2193351691930244305, guid: b633aa0c6870cf548ba34e021fb830d9, type: 3}
   m_PrefabInstance: {fileID: 2020705090}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2033239559
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2033239560}
+  - component: {fileID: 2033239562}
+  - component: {fileID: 2033239561}
+  m_Layer: 5
+  m_Name: Value
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &2033239560
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2033239559}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 582689152}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &2033239561
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2033239559}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: (0, 0)
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 36
+  m_fontSizeBase: 36
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &2033239562
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2033239559}
+  m_CullTransparentMesh: 1
 --- !u!1 &2037514417
 GameObject:
   m_ObjectHideFlags: 0
@@ -21693,26 +20016,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000300000017010100000079000700000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 3
-    - Name: y
-      Entry: 3
-      Data: 7
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -21863,26 +20174,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000700000017010100000079000400000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 7
-    - Name: y
-      Entry: 3
-      Data: 4
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -21950,26 +20249,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000700000017010100000079000200000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 7
-    - Name: y
-      Entry: 3
-      Data: 2
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -22514,26 +20801,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000900000017010100000079000500000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 9
-    - Name: y
-      Entry: 3
-      Data: 5
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}
@@ -22684,26 +20959,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 2
-    SerializedBytes: 
+    SerializedFormat: 0
+    SerializedBytes: 03010500000069006e006400650078002f00000000011a000000430065006c006c0049006e006400650078002c00200041007300730065006d0062006c0079002d0043005300680061007200700017010100000078000000000017010100000079000900000005
     ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
     PrefabModifications: []
-    SerializationNodes:
-    - Name: index
-      Entry: 7
-      Data: CellIndex, Assembly-CSharp
-    - Name: x
-      Entry: 3
-      Data: 0
-    - Name: y
-      Entry: 3
-      Data: 9
-    - Name: 
-      Entry: 8
-      Data: 
+    SerializationNodes: []
   state: 0
   buildings: []
   buildingPrefab: {fileID: 301898455, guid: 7a374342b9422184083b8bfa4cf5c29b, type: 3}

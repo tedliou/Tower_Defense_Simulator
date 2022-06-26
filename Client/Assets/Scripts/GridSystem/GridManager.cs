@@ -98,7 +98,7 @@ public class GridManager : SerializedMonoBehaviour
 
     private void Start()
     {
-        
+        Application.targetFrameRate = 144;
     }
 
     private void Update()
@@ -136,6 +136,7 @@ public class GridManager : SerializedMonoBehaviour
 #endif
     }
 
+#if UNITY_EDITOR
     [Button("Create Grid", ButtonSizes.Large)]
     public void GenerateGrid()
     {
@@ -175,7 +176,6 @@ public class GridManager : SerializedMonoBehaviour
         }
     }
 
-
     [Button("Delete Grid", ButtonSizes.Large)]
     public void DeleteGrid()
     {
@@ -194,6 +194,7 @@ public class GridManager : SerializedMonoBehaviour
             content.Clear();
         }
     }
+#endif
 
     [HideIf(nameof(deleteMode))]
     [Button("Delete Mode", ButtonSizes.Large)]
